@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat-raj1729&label=Profile%20views&color=0e75b6&style=flat" alt="akshat-raj1729" /> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Android Studio**
+- 💬 Ask me about **DSA problems**
 
 - 📫 How to reach me **akshatraj4104@gmail.com**
 
